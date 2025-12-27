@@ -327,7 +327,11 @@ export default function App() {
     setUser(userData);
     toast({
       title: '✨ Account created!',
+<<<<<<< HEAD
       description: 'Welcome to Gear Guard.'
+=======
+      description: 'Welcome to Maintenance Pro.'
+>>>>>>> 9855f5c64dd95b410e65fe395c591204e1b5095d
     });
     navigate('/dashboard');
   };
@@ -335,7 +339,10 @@ export default function App() {
   const handleLogout = () => {
     setUser(null);
     localStorage.removeItem('user');
+<<<<<<< HEAD
     sessionStorage.removeItem('user');
+=======
+>>>>>>> 9855f5c64dd95b410e65fe395c591204e1b5095d
     toast({
       title: '👋 Logged out',
       description: 'You have been successfully logged out.'

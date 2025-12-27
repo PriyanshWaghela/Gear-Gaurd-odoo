@@ -89,7 +89,11 @@ export function SignupPage({ onSignup, onShowLogin, onBackToLanding }: SignupPag
               </motion.div>
 
               <h1 className="text-4xl lg:text-5xl bg-gradient-to-r from-white to-slate-300 bg-clip-text text-transparent">
+<<<<<<< HEAD
                 Join Gear Guard Today
+=======
+                Join Maintenance Pro Today
+>>>>>>> 9855f5c64dd95b410e65fe395c591204e1b5095d
               </h1>
               
               <p className="text-xl text-slate-400">

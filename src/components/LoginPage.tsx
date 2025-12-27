@@ -83,7 +83,11 @@ export function LoginPage({ onLogin, onShowSignup, onBackToLanding }: LoginPageP
           <h1 className="text-3xl bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent mb-2">
             Welcome Back
           </h1>
+<<<<<<< HEAD
           <p className="text-slate-400">Sign in to continue to Gear Guard</p>
+=======
+          <p className="text-slate-400">Sign in to continue to Maintenance Pro</p>
+>>>>>>> 9855f5c64dd95b410e65fe395c591204e1b5095d
         </motion.div>
 
         {/* Login Card */}

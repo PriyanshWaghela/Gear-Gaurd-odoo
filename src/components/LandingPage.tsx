@@ -85,7 +85,11 @@ export function LandingPage({ onShowLogin, onShowSignup }: LandingPageProps) {
                 </div>
               </div>
               <span className="text-2xl bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent">
+<<<<<<< HEAD
                 Gear Guard
+=======
+                Maintenance Pro
+>>>>>>> 9855f5c64dd95b410e65fe395c591204e1b5095d
               </span>
             </motion.div>
             <div className="flex gap-3">
@@ -359,7 +363,11 @@ export function LandingPage({ onShowLogin, onShowSignup }: LandingPageProps) {
             </div>
             
             <div className="text-slate-400 text-sm">
+<<<<<<< HEAD
               &copy; 2025 Gear Guard. All rights reserved.
+=======
+              &copy; 2025 Maintenance Pro. All rights reserved.
+>>>>>>> 9855f5c64dd95b410e65fe395c591204e1b5095d
             </div>
             
             <div className="flex gap-6 text-sm text-slate-400">

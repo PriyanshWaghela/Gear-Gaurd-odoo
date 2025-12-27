@@ -72,9 +72,16 @@ export function Sidebar({ activeTab, onTabChange, onLogout, userName }: SidebarP
           </div>
           <div>
             <div className="text-lg bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent">
+<<<<<<< HEAD
               Gear
             </div>
             <div className="text-xs text-slate-400">Guard System</div>      </div>
+=======
+              Maintenance
+            </div>
+            <div className="text-xs text-slate-400">Pro System</div>
+          </div>
+>>>>>>> 9855f5c64dd95b410e65fe395c591204e1b5095d
         </motion.div>
       </div>
 
